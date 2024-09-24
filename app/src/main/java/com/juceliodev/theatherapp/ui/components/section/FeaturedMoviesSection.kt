@@ -35,7 +35,7 @@ fun FeaturedMoviesSection(
         verticalArrangement = Arrangement.spacedBy(24.dp)
     ) {
         SectionHeader(
-            text = "Featured Movies"
+            text = "Filmes em Destaque"
         )
         LazyRow(
             horizontalArrangement = Arrangement.spacedBy(16.dp)
