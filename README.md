@@ -1,0 +1,6 @@
+- Estrutura de arquivos que uso para me organizar
+- Como planejar projetos responsivos desde o início
+- Criar um projeto escalável
+- Integrar o HTML com CSS e Javascript
+- Seletores e eventos em Javascript
+- Fazer deploy no Github Pages
